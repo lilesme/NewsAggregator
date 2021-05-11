@@ -1,0 +1,146 @@
+{
+    "sources": [
+        {
+            "source": "Fox",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "http://feeds.foxnews.com/foxnews/politics",
+                    "bias": 1,
+                    "hasTags": true
+                },
+                {
+                    "category": "latest",
+                    "url": "http://feeds.foxnews.com/foxnews/latest",
+                    "hasTags": true
+                }
+            ]
+        },
+        {
+            "source": "CNN",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+                    "bias": -1,
+                    "hasTags": false
+                },
+                {
+                    "category": "latest",
+                    "url": "http://rss.cnn.com/rss/cnn_latest.rss",
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Huffington Post",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.huffingtonpost.com/section/politics/feed",
+                    "bias": -2,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Breitbart",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "http://feeds.feedburner.com/breitbart",
+                    "bias": 2,
+                    "hasTags": true
+                }
+            ]
+        },
+        {
+            "source": "Washington Times",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.washingtontimes.com/rss/headlines/news/politics/",
+                    "bias": 1,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "New York Times",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+                    "bias": -1,
+                    "hasTags": true
+                }
+            ]
+        },
+        {
+            "source": "Daily Mail",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.dailymail.co.uk/news/us-politics/index.rss",
+                    "bias": 2,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Slate",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://slate.com/feeds/news-and-politics.rss",
+                    "bias": -2,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Newsmax",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.newsmax.com/rss/Politics/1/",
+                    "bias": 2,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "The Nation",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.thenation.com/feed/?post_type=article&subject=political-figures",
+                    "bias": -2,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Buzzfeed",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "https://www.buzzfeed.com/politics.xml",
+                    "bias": -1,
+                    "hasTags": false
+                }
+            ]
+        },
+        {
+            "source": "Washington Examiner",
+            "feeds": [
+                {
+                    "category": "politics",
+                    "url": "http://feeds.feedburner.com/dcexaminer/Politics",
+                    "bias": 1,
+                    "hasTags": false
+                }
+            ]
+        }
+    ]
+}
